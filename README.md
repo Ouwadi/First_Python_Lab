@@ -1,2 +1,2 @@
-# IBM_Python_Lab1
-IBM Data analytics course Hands on Lab1
+# IBM_Python_Labs
+IBM Data analytics course Hands on Labs for module 4 Python for data science, A.I and development
